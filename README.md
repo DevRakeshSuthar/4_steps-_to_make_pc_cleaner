@@ -2,8 +2,10 @@
 
 ## run > 
 
--  %temp%
-- prefetch
-- recent
-- msconfig
+ -  %temp%
+ - prefetch
+ - recent
+ - msconfig
 
+
+ **clear all this stuff and mafe your PC faster**
